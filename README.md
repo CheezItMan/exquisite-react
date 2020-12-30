@@ -18,7 +18,7 @@ If you're curious about what the original Exquisite Corpse drawing game looks li
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Learning Goals
+## Deploy
 
 By the end of this project we will be able to...
 
