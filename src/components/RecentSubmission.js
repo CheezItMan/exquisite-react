@@ -15,8 +15,4 @@ RecentSubmission.propTypes = {
   submission: PropTypes.string.isRequired,
 };
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/ddr/deploy
 export default RecentSubmission;
